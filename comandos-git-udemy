@@ -7,5 +7,9 @@ git push -u origin master (Sobe os arquivos comitados para o github - somente na
 git push (Sobe os arquivos comitados para o github)
 git remote add origin "ENDERECO GIT" (Adiciona projeto github)
 
+git diff (Exibe diferenças entre commits e branchs)
+git diff path (Exibe diferenças no diretório)
+git diff HEAD~1 (Mostra o que foi alterado no último commit)
+
 
 
