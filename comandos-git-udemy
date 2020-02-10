@@ -15,5 +15,8 @@ git pull (Baixa as alterações feitas do github)
 
 git clone (Baixa o repositorio remoto)
 
+git branch "NOMEBRANCH" (Cria nova brach)
+git branch -d "NOMEBRANCH" (Excluir uma branch)
+
 
 
