@@ -1,0 +1,11 @@
+git init (Inicia um projeto git)
+git commit -m "MENSAGEM" (Comita o arquivo, mas ainda não subiu para o github)
+git status (Mosta os arquivos que sofreram alteração e podem ser comitados)
+git add . (Comita todos os arquivos)
+git log (Mostra os arquivos que sofreram alterações)
+git push -u origin master (Sobe os arquivos comitados para o github - somente na primeira vez que subir o arquivo)
+git push (Sobe os arquivos comitados para o github)
+git remote add origin "ENDERECO GIT" (Adiciona projeto github)
+
+
+
