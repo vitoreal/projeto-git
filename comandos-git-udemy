@@ -11,5 +11,9 @@ git diff (Exibe diferenças entre commits e branchs)
 git diff path (Exibe diferenças no diretório)
 git diff HEAD~1 (Mostra o que foi alterado no último commit)
 
+git pull (Baixa as alterações feitas do github)
+
+git clone (Baixa o repositorio remoto)
+
 
 
